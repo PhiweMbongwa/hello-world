@@ -1,2 +1,2 @@
 # hello-world
-Learning how GItHub works
+Phiwe is an aspiring Software developer with a degree in Electrical Engineering.
